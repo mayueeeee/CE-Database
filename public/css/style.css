@@ -1,0 +1,72 @@
+body,span{
+  font-family: 'Athiti', sans-serif;
+}
+h2{
+  font-family: 'Athiti', sans-serif;
+  font-size: 3.5em !important;
+  font-weight: bold;
+}
+h4{
+  font-family: 'Athiti', sans-serif;
+  font-size: 1.9em !important;
+}
+h5{
+  font-family: 'Athiti', sans-serif;
+  font-size: 1.5em !important;
+}
+
+
+.subtitle{
+  padding-top: 5px;
+}
+
+.navbar{
+  font-family: 'Athiti', sans-serif;
+  font-size: 1.3em;
+}
+.usrname{
+  text-align: right;
+  padding: 10px;
+}
+
+.main-col{
+
+  padding-top: 3%;
+}
+.label{
+  font-family: 'Athiti', sans-serif;
+  font-size: 1.6em;
+
+}
+.inputtxt{
+  font-family: 'Athiti', sans-serif;
+
+
+}
+.preview-img{
+  max-width: 60%;
+  padding-bottom: 20px;
+}
+.header-text{
+  margin-top: 20px;
+}
+.label{
+  text-align: left;
+}
+
+.center{
+  text-align: center;
+}
+.videoarea{
+  margin-bottom: 20px;
+}
+
+.fadeIn {
+  -webkit-animation-duration: 0.2s !important;
+
+}
+
+.notification-icon{
+  margin-top: 3px;
+  margin-right: 2px;
+}
